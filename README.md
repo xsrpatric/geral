@@ -42,6 +42,6 @@ Você pode contribuir para a Wolfnetic de várias maneiras:
 - Compartilhando sua experiência de aprendizado conosco.
 
 ## Fale Conosco
-Se você tiver dúvidas, sugestões ou quiser colaborar, entre em contato conosco em [email@wolfnetic.com](mailto:email@wolfnetic.com).
+Se você tiver dúvidas, sugestões ou quiser colaborar, entre em contato conosco em [suporte@wolfnetic.com](mailto:email@wolfnetic.com).
 
 Agradecemos por se juntar à nossa missão de transformar a educação por meio da gamificação. Juntos, podemos criar um ambiente de aprendizado mais envolvente e eficaz!
